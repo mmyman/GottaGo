@@ -1,0 +1,1 @@
+GottaGo is a application to find, rate, and review bathrooms
