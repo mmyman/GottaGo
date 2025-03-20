@@ -1,1 +1,0 @@
-This is a demo of rendering the Map component and linking it to Google Maps in MAUI
